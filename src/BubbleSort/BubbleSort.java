@@ -7,7 +7,8 @@ public class BubbleSort {
 		
 	
 	       System.out.println("hellos........");
-	       System.out.println();
+	       System.out.println("hii");
+	      
 	       System.out.println("Hi");
 	        int arr[] = {8,3,2,9,7,6,11,10,1,12};
 	        System.out.println("Sorted array");
