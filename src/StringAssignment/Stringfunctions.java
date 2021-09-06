@@ -22,6 +22,7 @@ public class Stringfunctions {
 		System.out.println(w.contentEquals(c));
 		System.out.println(a.hashCode());
 		System.out.println(a.repeat(s));
+		System.out.println(a.split("/"));
 	}
 
 }
